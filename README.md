@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<div align="center">
+<div align="left">
 <a href="https://felixmaiko.com/">
-<img height="137px"  src="https://github-readme-stats.vercel.app/api?username=maikofelix47&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,000,505050&theme=graywhite" />
-  <img height="255px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikofelix47&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=0,000,505050&theme=graywhite" /></a>
+<img height="121px"  src="https://github-readme-stats.vercel.app/api?username=maikofelix47&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,000,505050&theme=graywhite" />
+  <img height="225px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikofelix47&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=0,000,505050&theme=graywhite" /></a>
 </div>
 <br>

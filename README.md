@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Felix Maiko!
+
 <!--
 **maikofelix47/maikofelix47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - a **Software Developer** based in Kenya.
 - I'm currently learning **NestJs** and **Data Structures** and **Algorithms.**
 - I mainly work using **Javascript.**
 - I like contributing to **open source** and connecting with other developers.
+
 ---
+
 <br>
 <div align="left">
 <a href="https://felixmaiko.com/">

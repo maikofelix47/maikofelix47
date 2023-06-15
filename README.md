@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - a **Software Developer** based in Kenya.
-- I'm currently learning **NestJs** and **Data Structures** and **Algorithms.**
 - I mainly work using **Javascript.**
 - I like contributing to **open source** and connecting with other developers.
 
@@ -43,5 +42,6 @@ Here are some ideas to get you started:
 <img align=center width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align=center width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align=center width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-
+<img align=center width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align=center width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
